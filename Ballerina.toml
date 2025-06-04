@@ -3,7 +3,7 @@
 
 [package]
   distribution = "2201.3.1"
-  name = "loginevent_jan31"
-  org = "orgniluka2025andjan"
+  name = "WebSubHub-Test"
+  org = "ruwin"
   version = "0.1.0"
 
